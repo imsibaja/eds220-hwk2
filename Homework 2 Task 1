@@ -1,0 +1,8 @@
+# Homework 2 Task 1: 
+## Better Science in Less Time Using Open Data Science Tools Reading
+
+### In your previous working experience, have you been working with reproducibility in mind? Which tools have allowed you or prevented you from making your work reproducible?
+
+I have used multiple tools to enhance my work's reproducibility. I have used Version Control tools such as git/Github. These allow me to create a reproducible workflow by maintaining a log of all the updated versions of my code that I have compiled. Additionally, I am able to use conda environments to maintain specific versions of packages and dependencies. This allows different projects to have consistent software. Lastly, and possibly the most simple is I leave informative comments to ensure the logic behind each line is sound to the reader.
+
+I agree and endorse the ethos behind the Openscapes program. I believe open science is our best way to promote diversity and develop a framework in which data can be reproducible and transparent. Additionally, I also believe no one person solves these problems alone, rather "teams" like that described in the presentation are true drivers of innovation.
