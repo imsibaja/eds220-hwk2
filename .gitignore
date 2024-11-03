@@ -3,8 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-#Auto Grade log
+# Auto Grade log
 .OTTER_LOG
+
+# D.S. Store
+.DS_Store
 
 # C extensions
 *.so
